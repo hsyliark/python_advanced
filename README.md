@@ -1,6 +1,6 @@
 # python_advanced
 
-## 파이썬 고급 프로그래밍 공부 관련 데이터 모음
+## 파이썬 고급 프로그래밍 공부 관련  데이터 모음
 
 ### 출처 : https://github.com/PinkWink/DataScience 
 
