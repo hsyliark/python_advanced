@@ -2,7 +2,8 @@
 
 ## 파이썬 고급 프로그래밍 공부 관련  데이터 모음
 
-### 출처 : https://github.com/PinkWink/DataScience 
+### 출처 : https://github.com/PinkWink/DataScience
+### 저자(민형기) 블로그 : https://pinkwink.kr/
 
 #### 아나콘다 설치하기
 1. 아나콘다 홈페이지 다운로드페이지로 이동 합니다.
